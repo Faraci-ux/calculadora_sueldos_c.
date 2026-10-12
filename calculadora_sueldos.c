@@ -36,8 +36,3 @@ int main()
 	printf("el sueldo del empleado es: %.2f", sueldo);
 	return 0;
 }
-	
-	printf("el sueldo del empleado es: %.2f", sueldo);
-	
-	return 0;
-}
